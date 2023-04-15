@@ -72,12 +72,6 @@ nav a:hover{
   background-color: #005bb5;
 }
 
-main {
-  min-width: 300px;
-  max-width: 1000px;
-  margin: auto;
-}
-
 article {
   background-color: #6b635638;
   width: 1050px;
